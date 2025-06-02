@@ -28,7 +28,7 @@ This project explores student performance using Microsoft Excel. It includes:
 ## 📽️ Project Video
 
 Watch the full video demonstration here:  
-👉 [Click to Watch on Google Drive]https://drive.google.com/file/d/1x8gUG7w4CJjSnC3cmG0i--R9tj3q_h8V/view?usp=drive_link
+👉 [Click to Watch on Google Drive][https://drive.google.com/file/d/1x8gUG7w4CJjSnC3cmG0i--R9tj3q_h8V/view?usp=drive_link]
 
 ---
 
